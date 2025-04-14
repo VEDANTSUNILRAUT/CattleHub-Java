@@ -1,0 +1,3 @@
+com\Servlet\DBConnection.class
+com\Servlet\LoginServlet.class
+com\Servlet\RegistrationServlet.class
