@@ -101,12 +101,6 @@ mvn clean package
 
 3. Access application at: `http://localhost:8080/CattleHub`
 
-## 🖼️ Application Screenshots
-
-| Dashboard | Cattle Listing | Admin Panel |
-|-----------|----------------|-------------|
-| ![Dashboard](https://via.placeholder.com/300x200?text=Seller+Dashboard) | ![Listing](https://via.placeholder.com/300x200?text=Cattle+Details) | ![Admin](https://via.placeholder.com/300x200?text=Admin+Interface) |
-
 ## 🔮 Future Roadmap
 - **Mobile Application** for field access
 - **Payment Gateway Integration** for secure transactions
