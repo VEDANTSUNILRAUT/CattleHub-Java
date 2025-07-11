@@ -1,6 +1,6 @@
 # 🐄 CattleHub: Modern Cattle Management System
 
-![CattleHub Banner](https://via.placeholder.com/1200x400.png?text=CattleHub+%F0%9F%90%84+Digital+Cattle+Marketplace)
+![CattleHub Banner](https://img.freepik.com/free-vector/farm-summer-landscape-illustration_1284-59687.jpg?t=st=1752253910~exp=1752257510~hmac=cbb25d76896fde5c1682f25dda8f697cc607ff08945b2c99a60954143a2f23c7&w=1380)
 
 **CattleHub** is a comprehensive e-commerce platform revolutionizing cattle trade by connecting buyers and sellers through a secure digital marketplace. This Java-based solution streamlines cattle transactions with modern features and intuitive workflows.
 
